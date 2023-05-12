@@ -1,0 +1,13 @@
+body{
+background-image: linear-gradient(to left top, blue,cyan);
+}
+
+.imagesang {
+  width: 200px;
+  height: 200px;
+}
+
+.fullangola {
+  color: white;
+  text-align: center;
+}
