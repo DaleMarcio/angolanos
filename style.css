@@ -3,11 +3,12 @@ background-image: linear-gradient(to left top, blue,cyan);
 }
 
 .imagesang {
-  width: 200px;
-  height: 200px;
+  width: 200px!important;
+  height: 200px!important;
 }
 
 .fullangola {
   color: white;
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
   text-align: center;
-}
